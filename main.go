@@ -1,4 +1,3 @@
-```go
 package main
 
 import (
@@ -16,4 +15,3 @@ func main() {
 func chatCallback(uuid string, message string) {
 	fmt.Print(message)
 }
-```
